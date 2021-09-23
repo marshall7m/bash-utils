@@ -5,13 +5,12 @@
     "homepage": "https://github.com/marshall7m/bash-utils",
     "author": "Marshall Mamiya",
     "repository": "github:marshall7m/bash-utils",
-    "bugs": "https://github.com/jasonkarns/bats-assert-1/issues",
     "directories": {
       "lib": "src",
       "test": "test"
     },
     "files": [
-      "load.bash",
+      "load.sh",
       "src"
     ],
     "keywords": [
