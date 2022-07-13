@@ -9,6 +9,12 @@
       "lib": "src",
       "test": "test"
     },
+    "devDependencies": {
+      "bats": "https://github.com/bats-core/bats-core",
+      "bats-assert": "https://github.com/bats-core/bats-assert",
+      "bats-support": "https://github.com/bats-core/bats-support",
+      "bats-utils": "https://github.com/marshall7m/bats-utils"
+    },
     "files": [
       "load.sh",
       "src"
