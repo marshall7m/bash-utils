@@ -1,0 +1,11 @@
+.DS_Store
+*.cache*
+__pycache__
+.wget-hsts
+.bash_history
+*tmp*
+node_modules
+/package-lock.json
+*docker-pgsql-volume*
+/yarn.lock
+/yarn-error.log
